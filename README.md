@@ -1,1 +1,3 @@
 # Streamlit Kepler Component
+
+Kepler.gl is a powerful open-source geospatial visualization tool developed by Uber. It enables users to effortlessly create custom, interactive maps from large-scale location data. With its intuitive interface and extensive customization options, Kepler.gl empowers users to explore and analyze geographic patterns, trends, and relationships. Whether for urban planning, logistics optimization, or data journalism, Kepler.gl provides a user-friendly solution for visualizing complex spatial datasets. Its versatility, ease of use, and ability to handle big data make it an essential tool for anyone needing to understand and communicate insights from geospatial information effectively.
