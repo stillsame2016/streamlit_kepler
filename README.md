@@ -1,1 +1,1 @@
-# streamlit_kepler
+# Streamlit Kepler Component
