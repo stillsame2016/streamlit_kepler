@@ -1,2 +1,4 @@
 streamlit
 streamlit-kepler-component
+pandas
+geopandas
