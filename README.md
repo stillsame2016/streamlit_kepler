@@ -20,6 +20,8 @@ accordingly. Additionally, Streamlit gains the ability to add data to the map on
 has been previously rendered. This breakthrough empowers users to interact fluidly with the map, enhancing the
 application's versatility and responsiveness.
 
+See demo at https://kepler.streamlit.app/
+
 ## Installation instructions
 
 ```sh
