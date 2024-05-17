@@ -65,5 +65,12 @@ with col3:
         st.session_state.datasets.append(h3_hex_id_df)
         st.rerun()
 
+st.markdown("""
+     The status of the map is displayed at the bottom of the page. You can zoom in/out, pan map, and 
+     watch the map state change. You can also change the color of different layers, delete data, and 
+     watch the map status change. In other words, Streamlit will be notified of any changes in the 
+     map state, and Streamlit can also dynamically add data to the map.
+""")
+
 if map_config:
     st.code(json.dumps(map_config_json, indent=4))
