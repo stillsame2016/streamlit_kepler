@@ -1,3 +1,4 @@
+import time
 import json
 import streamlit as st
 from keplergl import keplergl
