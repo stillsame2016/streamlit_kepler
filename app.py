@@ -30,7 +30,7 @@ if "datasets" not in st.session_state:
 options = {"keepExistingConfig": True}
 
 map_config = keplergl(st.session_state.datasets, options=options, config=None, height=400)
-time.sleep(1)
+time.sleep(1.5)
 session_data_ids = []
 if map_config:
     map_config_json = json.loads(map_config)
